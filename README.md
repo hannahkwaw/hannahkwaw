@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... sharing project tutorials on YouTube
 - 🌱 I’m currently learning ...React and Node.js
 - 👯 I’m looking to collaborate on ... frontend developments projects 
-- 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... frontend dev tools
 - 📫 How to reach me: ... twitter at @kwawhannah
 - 😄 Pronouns: ... she/her
