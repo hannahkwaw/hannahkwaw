@@ -11,5 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything tech
 - 📫 How to reach me: twitter at @kwawhannah
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love food
-
